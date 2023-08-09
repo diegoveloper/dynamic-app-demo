@@ -1,3 +1,3 @@
 # Download Demo APK
 
-[Download](dynamic-app.apk)
+[Download](dynamic-app.apk?raw=1)
